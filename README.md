@@ -47,9 +47,9 @@ http://www.rubydoc.info/gems/ImcSdk
     `rake test TEST=test/ImcSdk_ipmi_test.rb`
 
 
-## Contributing
+## Community
 
-TODO: steps to raise bugs
+We are on Slack - slack requires registration, but the ucspython team is open invitation to anyone to register here : https://ucspython.herokuapp.com/
 
 ## License
 ***
