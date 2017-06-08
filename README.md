@@ -1,4 +1,4 @@
-# RubyImcSdk README
+# Ruby-ImcSdk README
 
 SDK for Cisco IMC Server (standalone)
 
@@ -36,7 +36,7 @@ Server Api file names:
 * storage.rb
 
 ## Documentation
-To read the documetation, navigate to `docs` folder and open the `index.html` in browser.
+http://www.rubydoc.info/gems/ImcSdk
 
 ## Development
 
