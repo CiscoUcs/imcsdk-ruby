@@ -1,0 +1,7 @@
+--title "Cisco IMC Ruby SDK"
+--output-dir "docs"
+lib/ImcSdk.rb
+lib/ImcSdk/apis/admin/*.rb
+lib/ImcSdk/apis/server/*.rb
+README.md
+LICENSE
