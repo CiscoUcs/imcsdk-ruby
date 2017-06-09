@@ -5,7 +5,6 @@ SDK for Cisco IMC Server (standalone)
 ## Installation
 SDK could be installed using one of the following ways:
 ### From Rubygems.org
-Following command installs the latest version
     1. gem install ImcSdk
     
 ### From Github
@@ -18,7 +17,7 @@ Following command installs the latest version
 ### From Rubygems.org
     1. gem uninstall ImcSdk
 ### From Github
-    1. $make clean
+    1. make clean
 
 ## Usage
 
